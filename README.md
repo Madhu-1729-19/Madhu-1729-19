@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm P. Madhu 👋</h1>
-<h3 align="center">DevOps Engineer | Turning ideas into powerful digital experiences</h3>
+<h3 align="center">DevOps Engineer | Turning complex systems into simple, automated workflows</h3>
 
 ---
 
