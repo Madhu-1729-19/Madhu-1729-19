@@ -8,7 +8,7 @@ I am passionate about building scalable applications and simplifying complex wor
 I focus on creating efficient CI/CD pipelines that ensure fast, reliable, and smooth deployments.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Madhu-1729-19/Madhu-selfintroduction--git/main/devops.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/Madhu-1729-19/Madhu-1729-19/main/devops.gif" width="400"/>
 </p>
 
 ---
