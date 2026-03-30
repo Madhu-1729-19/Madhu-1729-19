@@ -34,9 +34,8 @@ I focus on creating efficient CI/CD pipelines that ensure fast, reliable, and sm
 
 ---
 
-📊 **Most Used Languages**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhu-1729-19&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Madhu-1729-19&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
