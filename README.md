@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm P. Madhu 👋</h1>
+<h1 align="center">Hi, I'm P. Madhu 👋</h1>
 <h3 align="center">DevOps Engineer | Turning complex systems into simple, automated workflows</h3>
 
 ---
